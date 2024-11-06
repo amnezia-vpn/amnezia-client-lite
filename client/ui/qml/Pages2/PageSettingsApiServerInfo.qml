@@ -132,8 +132,8 @@ PageType {
                 implicitHeight: 32
 
                 defaultColor: "transparent"
-                hoveredColor: Qt.rgba(1, 1, 1, 0.08)
-                pressedColor: Qt.rgba(1, 1, 1, 0.12)
+                hoveredColor: AmneziaStyle.color.translucentWhite
+                pressedColor: AmneziaStyle.color.sheerWhite
                 textColor: AmneziaStyle.color.vibrantRed
 
                 text: qsTr("Reload API config")
@@ -172,8 +172,8 @@ PageType {
                 implicitHeight: 32
 
                 defaultColor: "transparent"
-                hoveredColor: Qt.rgba(1, 1, 1, 0.08)
-                pressedColor: Qt.rgba(1, 1, 1, 0.12)
+                hoveredColor: AmneziaStyle.color.translucentWhite
+                pressedColor: AmneziaStyle.color.sheerWhite
                 textColor: AmneziaStyle.color.vibrantRed
 
                 text: qsTr("Remove from application")

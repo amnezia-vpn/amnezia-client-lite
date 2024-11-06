@@ -316,8 +316,8 @@ PageType {
 
                         rootButtonImageColor: AmneziaStyle.color.midnightBlack
                         rootButtonBackgroundColor: AmneziaStyle.color.paleGray
-                        rootButtonBackgroundHoveredColor: Qt.rgba(215, 216, 219, 0.8)
-                        rootButtonBackgroundPressedColor: Qt.rgba(215, 216, 219, 0.65)
+                        rootButtonBackgroundHoveredColor: AmneziaStyle.color.mistyGray
+                        rootButtonBackgroundPressedColor: AmneziaStyle.color.cloudyGray
                         rootButtonHoveredBorderColor: AmneziaStyle.color.transparent
                         rootButtonDefaultBorderColor: AmneziaStyle.color.transparent
                         rootButtonTextTopMargin: 8
