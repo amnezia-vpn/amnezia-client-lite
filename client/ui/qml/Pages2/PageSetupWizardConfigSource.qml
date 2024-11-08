@@ -192,6 +192,8 @@ PageType {
             CardWithIconsType {
                 id: apiInstalling
 
+                visible: false
+
                 Layout.fillWidth: true
                 Layout.rightMargin: 16
                 Layout.leftMargin: 16

@@ -264,23 +264,6 @@
       "idiom" : "watch-marketing",
       "scale" : "1x",
       "size" : "1024x1024"
-    },
-    {
-      "idiom" : "car",
-      "scale" : "2x",
-      "size" : "60"
-    },
-    {
-      "idiom" : "car",
-      "scale" : "3x",
-      "size" : "60"
-    },
-    {
-      "idiom" : "watch",
-      "role" : "longLook",
-      "scale" : "2x",
-      "size" : "44x44",
-      "subtype" : "42mm"
     }
   ],
   "info" : {
