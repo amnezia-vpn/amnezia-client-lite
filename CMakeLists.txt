@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.25.0 FATAL_ERROR)
 
 set(PROJECT AmneziaLite)
 
-project(${PROJECT} VERSION 4.8.2.3
+project(${PROJECT} VERSION 1.0.0.2
         DESCRIPTION "AmneziaLite"
         HOMEPAGE_URL "https://amnezia.org/"
 )
